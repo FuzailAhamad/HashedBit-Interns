@@ -1,0 +1,29 @@
+.button {
+    background: #444;
+    color: #fff;
+    font-size: 24px;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    flex: 1;
+    transition: background-color 0.2s ease;
+  }
+  
+  .button:hover {
+    background: #555;
+  }
+  
+  .function-button {
+    background: #999;
+    color: #000;
+  }
+  
+  .operator-button {
+    background: #ff9500;
+  }
+  
+  .zero {
+    flex: 2;
+  }
+  
